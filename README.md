@@ -23,7 +23,7 @@ AMS-Counter
 ├── lightning_logs/     # PL logs & checkpoints
 ├── models/             # core code of AMS-Counter
 ├── util/
-├── weights/			# ← put pre-trained weights here
+├── weights/            # ← put pre-trained weights here
 ├── runner.py           # Main train/eval script
 ```
 
